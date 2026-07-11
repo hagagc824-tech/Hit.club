@@ -1,0 +1,11 @@
+{
+  "name": "taixiu-api",
+  "version": "1.0.0",
+  "main": "hit.js",
+  "scripts": {
+    "start": "node hit.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
